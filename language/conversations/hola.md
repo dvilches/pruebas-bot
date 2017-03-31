@@ -1,6 +1,6 @@
 ---
 title: hola
-timestamp: 2017-03-31T11:54:08.461527984-03:00
+timestamp: 2017-03-31T12:02:13.464421728-03:00
 ---
 
 hola
@@ -13,4 +13,10 @@ Hi
 * greeting
 
 < Hello
+* greeting
+
+quiero mi cuota
+* greeting
+
+< tu cuenta la podes retirar en el club
 * greeting
